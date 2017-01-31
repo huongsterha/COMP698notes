@@ -14,3 +14,11 @@
 
 5. Typed docker run -it ubuntu:xenial /bin/bash into the command prompt and it 
 	downloaded a newer image for ubuntu:xenial
+	
+6. git remote --help shows what functions you can perform 
+   git remote add name url will connect your local git to your git repository
+   
+7. git status shows changes that are made and git diff will show the changes in more detail
+
+8. To do a commit, git commit -a (-a means all) -m (-m means message, if need other
+   commands use --help after commit) "In these quotes be specific about changes"
